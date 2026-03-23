@@ -12,7 +12,6 @@ Group Project for the Spring 2026 course CSCI 4380/6380
 ### Learning Python (Pandas)
 - [Codecademy-Pandas](https://www.codecademy.com/learn/data-processing-pandas) --> For those whose would like to brush-up on basic data analysis skills. It also has beginner Python modules, if required.
 
-### Clustering?
-
-
-### Graph-based methods?
+### Weka  
+- [Weka-experimenter](https://www.youtube.com/watch?v=Z0yiby2qyks&list=PL3GCZkoyKK4foQ8xxE-sHGYrKrtEY-v_8&index=12)
+- [Weka-for-beginners-playlist](https://youtube.com/playlist?list=PL3GCZkoyKK4foQ8xxE-sHGYrKrtEY-v_8&si=UUXXsqmfgKjs51_m)
